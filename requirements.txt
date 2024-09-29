@@ -1,0 +1,6 @@
+yt-dlp
+tk
+ttkbootstrap
+requests
+importlib.metadata
+pillow
