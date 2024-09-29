@@ -1,5 +1,5 @@
 <div align="center">
-    ![Logo](https://pasteboard.co/1oJrGg9BN8Xg.png)
+    <img src="./resources/logo.png" width="200px">
 
 ### YT DLD
 
