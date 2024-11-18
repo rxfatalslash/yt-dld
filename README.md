@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./resources/logo.png" width="200px">
+    <img src="https://i.imgur.com/WXBSZPT.png" width="200px">
 
 ### YT DLD
 
